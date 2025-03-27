@@ -12,3 +12,25 @@
 [+] Port 21 is open
 [+] Port 80 is open
 [+] Port 443 is open
+
+[*] HTTP Banner:
+HTTP/1.1 200 OK
+Date: Fri, 04 Apr 2025 21:38:58 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Cache-Control: must-revalidate, no-cache, private
+X-Drupal-Dynamic-Cache: MISS
+X-UA-Compatible: IE=edge
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+X-Drupal-Cache-Tags: block_view config:block.block.bartik_account_menu config:block.block.bartik_branding config:block.block.bartik_content config:block.block.bartik_footer config:block.block.bartik_help config:block.block.bartik_local_tasks config:block.block.bartik_main_menu config:block.block.bartik_messages config:block.block.bartik_page_title config:block.block.bartik_powered config:block.block.bartik_tools config:block_list config:color.theme.bartik config:node_type_list config:system.menu.account config:system.menu.footer config:system.menu.main config:system.menu.tools config:system.site config:user.role.anonymous config:user.settings http_response local_task node:1 node:602 rendered
+X-Drupal-Cache-Contexts: cookies:big_pipe_nojs languages:language_interface route session.exists theme url.path url.query_args user.permissions user.roles:authenticated
+X-Drupal-Cache-Max-Age: -1 (Permanent)
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 9 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Content-Type: text/html; charset=UTF-8
+
+
+[*] Directory brute force:

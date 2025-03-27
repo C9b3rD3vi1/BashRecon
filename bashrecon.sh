@@ -45,6 +45,7 @@ if nc -z -w 2 $TARGET 80; then
   curl -sI http://$TARGET | tee -a $REPORT
 fi
 
+
 # Dir bruteforce (basic)
 if nc -z -w 2 $TARGET 80; then
   echo -e "\n[*] Directory brute force:" | tee -a $REPORT
