@@ -41,17 +41,16 @@ Output will be saved to `reports/recon-<target>.txt`
     ├── reports/
     └── wordlists/
         └── dirs.txt
+        
  
 
-Make sure to populate `wordlists/dirs.txt` with common directories, like:
-    admin
-    login
-    uploads
-    api
-    dashboard
+Make sure to populate wordlists/dirs.txt with common directories, or use the included script to fetch from GitHub:
+
+    ./update-wordlist.sh
+
+This will pull a fresh list from SecLists' common.txt and save it to wordlists/dirs.txt.
 
 
----
 
 ## ⚠️ Disclaimer
 This tool is intended for **educational purposes** and **authorized testing** only.
