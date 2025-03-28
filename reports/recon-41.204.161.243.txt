@@ -1,0 +1,14 @@
+[*] Recon for 41.204.161.243
+[+] Host is up
+
+[*] DNS Info:
+;; Warning: ID mismatch: expected ID 1939, got 20449
+;; communications error to 192.168.100.1#53: timed out
+;; Warning: ID mismatch: expected ID 1939, got 22494
+;; communications error to 192.168.100.1#53: timed out
+;; no servers could be reached
+
+[*] Scanning top 1000 ports:
+[+] Port 21 is open
+[+] Port 80 is open
+[+] Port 443 is open

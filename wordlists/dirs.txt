@@ -1,0 +1,7 @@
+admin
+login
+uploads
+dashboard
+images
+api
+config
